@@ -1,0 +1,1613 @@
+[
+  {
+    "id": 1,
+    "title": "程序员的底层思维",
+    "author": "张建飞",
+    "genre": ["职业发展"],
+    "language": "ZH",
+    "series": "",
+    "description": "本书专注于提升程序员在职业涯中的思维式和核能。书中探讨了程序员如何通过掌握底层逻辑、系统思维和效学习来提升的技术平和职业竞争。张建分享了他在编程领域的经验与解，强调从根本上理解技术背后的原理，避免只停留在表的应层次。书中还涵盖了如何在快速变化的技术环境中保持学习的主动性和职业发展的可持续性，适合希望在编程领域深耕细作的程序员阅读。"
+  },
+  {
+    "id": 2,
+    "title": "底层逻辑",
+    "author": "刘润",
+    "genre": ["职业发展"],
+    "language": "ZH",
+    "series": "",
+    "description": "本书通过深刻的分析和真实的案例，揭了商业、社会和性中隐藏的规则与机制。书中涵盖了关于思维式、决策、趋势分析等多个层的内容，旨在教导读者如何通过理解这些底层逻辑来做出更明智的选择，提升个和职业的成功率。"
+  },
+  {
+    "id": 3,
+    "title": "世界最伟的推销员奥",
+    "author": "格·曼迪诺",
+    "genre": ["销售与营销"],
+    "language": "ZH",
+    "series": "",
+    "description": "探讨了在职场中如何取得突破和提升的法。公周通过实际案例和深分析，帮助读者识别职业发展的关键点，并提供具体的动计划和实技巧。书中强调了职业规划的重要性，以及如何在对挫折和挑战时保持积极的态。"
+  },
+  {
+    "id": 4,
+    "title": "哈佛凌晨4点半",
+    "author": "韦秀英",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "揭了哈佛学学成功背后的秘密，特别是他们的学习和活习惯。总结出了系列效的学习法和时间管理技巧，强调了早起的重要性。"
+  },
+  {
+    "id": 5,
+    "title": "做什么都能做好",
+    "author": "布兰登·伯查德",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "探讨了在职场中如何取得突破和提升的法。公周通过实际案例和深分析，帮助读者识别职业发展的关键点，并提供具体的动计划和实技巧。书中强调了职业规划的重要性，以及如何在对挫折和挑战时保持积极的态。"
+  },
+  {
+    "id": 6,
+    "title": "效能的七个习惯",
+    "author": " 史蒂芬·柯维",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "介绍了个和组织提效率和成功的七个习惯：积极主动、以终为始、要事第、双赢思维、知彼解、统合综效和不断更新。通过培养这些习惯，读者可以在作和活中实现更的效率和远的成功。"
+  },
+  {
+    "id": 7,
+    "title": "最效益的時間管理",
+    "author": "粥左羅",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中通过明确标设定来优化时间管理，帮助读者在年内实现个和职业的爆发性成长。作者提供了实际方法和工具，教读者如何分解长期目标、避免时间浪费、提升专注力，从而更高效地达成目标并最大化利用时间。"
+  },
+  {
+    "id": 8,
+    "title": "邏輯學入门",
+    "author": "格桑",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中通过88个常的逻辑学知识点，帮助读者提升思辨能，识别常的思维谬误，从而更加清晰、理性地进思考。作者结合实际案例和简单易懂的解释，引导读者在常活中应逻辑学原则，做出更明智的决策并提升沟通的有效性。"
+  },
+  {
+    "id": 9,
+    "title": "刻意練習",
+    "author": "安德斯 & 羅伯特",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中探讨了“刻意练习”这法，通过系统的、有的的训练来实现技能提升和专业平的突破。艾利克森通过量的研究和案例，阐明了如何通过精确的标设定、反馈和改进来加速学习过程，从新成为领域内的。"
+  },
+  {
+    "id": 10,
+    "title": "認知覺醒",
+    "author": "周嶺",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中探讨了如何通过认知觉醒来推动个的自我改变与成。作者介绍了认知科学和心理学中的关键概念，阐述了如何识别和打破限制性思维模式，从激发内在的动和潜能。通过实用的策略和法，书中指导读者如何提升自我意识、改变思维习惯，并实现个标和生活改善。"
+  },
+  {
+    "id": 11,
+    "title": "相信",
+    "author": "蔡磊",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "探讨了如何通过建信和信念来实现个人目标。书中结合理学原理和实际案例，提供了培养积极态和克服我怀疑的实技巧。蔡磊通过具体的法和激励的故事，励读者相信的自己的能力，勇敢对挑战，从实现个的成长和成功。这本书旨在帮助读者增强自信，改善活质量，并激发内在潜力。"
+  },
+  {
+    "id": 12,
+    "title": "自控力",
+    "author": "凯莉·麦格尼格爾",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中以斯坦福学的控课程为基础，介绍了如何通过科学的法提升控。麦格尼格尔从心理学、神经科学和为科学的度，解释了影响控的因素，并提供了实用的策略，帮助读者克服冲动、延迟满，养成更好的习惯。"
+  },
+  {
+    "id": 13,
+    "title": "非暴力溝通",
+    "author": "马歇爾·盧森寶",
+    "genre": ["自我提升"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中提出了暴沟通（NVC）的方法，鼓励人们在交流中避免指责和评判，代之以表达观察、感受、需求和请求。通过这种沟通式，可以减少冲突、增进理解，建更加和谐的人际关系。"
+  },
+  {
+    "id": 14,
+    "title": "极简之道",
+    "author": "Sendpoints",
+    "genre": ["设计与艺术"],
+    "language": "ZH",
+    "series": "",
+    "description": "深入探讨了极简主义在本平设计中的应用和美学理念。展示大量本平设计的经典案例，分析极简主义的设计技巧和影响以及如何通过简化设计元素来传达深刻的视觉和情感效果。"
+  },
+  {
+    "id": 15,
+    "title": "设计力就是沟通力",
+    "author": "宇治智子",
+    "genre": ["设计与艺术"],
+    "language": "ZH",
+    "series": "",
+    "description": "探讨了设计在沟通中的重要作。分析了优秀设计如何通过视觉元素传达信息和情感，从而达到有效沟通的的。对于从事设计作或对设计感兴趣的读者，这本书提供了深刻的见解和实的指导。"
+  },
+  {
+    "id": 16,
+    "title": "超高速设计法则",
+    "author": "Power Design Inc.",
+    "genre": ["设计与艺术"],
+    "language": "ZH",
+    "series": "",
+    "description": "本书着重于设计流程中的加速技巧与简化策略，从设计构思、原型制作到最终产品优化，提供了实用的具和技巧，帮助减少繁琐的步骤，提高设计效率。书中不仅介绍了技术上的实经验，还融入了时间管理、作流程优化等多的建议，确保设计师能够在效的前提下完成质量的作品。"
+  },
+  {
+    "id": 17,
+    "title": "Figma UI/UX設計技巧實戰",
+    "author": "彭其捷,曹伊裴",
+    "genre": ["设计与艺术"],
+    "language": "ZH",
+    "series": "",
+    "description": "本書精彙整了Figma的72個技巧與35個實作案例，透過量圖與步驟式教學， 從基礎概念開始，逐步引導讀者熟悉Figma的與進階技巧，親製作出完整的介互動原型。除了UI或UX設計師之外，本書也適合於PM、程師或相關介作者閱讀，透過Figma的精緻化機能，可提升設計溝通品質。"
+  },
+  {
+    "id": 18,
+    "title": "中国文化常识",
+    "author": "任启亮以及团队",
+    "genre": ["文化与历史"],
+    "language": "ZH",
+    "series": "中国常识",
+    "description": "系统地介绍了中国的传统化，包括文学、艺术、习俗、节等的内容。"
+  },
+  {
+    "id": 19,
+    "title": "中国地理常识",
+    "author": "任启亮以及团队",
+    "genre": ["文化与历史"],
+    "language": "ZH",
+    "series": "中国常识",
+    "description": "详细介绍了中国的地理知识，包括各个地区的地形地貌、气候特点、自然资源和景观。"
+  },
+  {
+    "id": 20,
+    "title": "中国历史常识",
+    "author": "任启亮以及团队",
+    "genre": ["文化与历史"],
+    "language": "ZH",
+    "series": "中国常识",
+    "description": "概述了中国悠久的历史，从远古时期到现代，通过重要的历史事件、人物和朝代更替，展示了中国历史的演变和发展。"
+  },
+  {
+    "id": 21,
+    "title": "世界化1000问",
+    "author": "文若愚",
+    "genre": ["文化与历史"],
+    "language": "ZH",
+    "series": "",
+    "description": "《世界化1000问》通过千个精设计的问题，带领读者深探索世界各地的化精髓。书中涵盖了泛的化主题，包括历史、艺术、文学、习俗、节等，内容丰富多彩，兼具教育性和趣味性。作者以通俗易懂的语，生动形象地解答了读者对世界化的各种疑问，使读者在轻松的阅读中增识，开阔视野。"
+  },
+  {
+    "id": 22,
+    "title": "孙子兵法",
+    "author": "孙子",
+    "genre": ["文化与历史"],
+    "language": "ZH",
+    "series": "",
+    "description": "《孙兵法》是部经典的军事著作，全书共三篇，每篇各有侧重，从战略、战术、后勤、间谍、理等多个度系统地论述了战争的原则和方法。孙在书中提出了许多精辟的军事思想和策略，如“知彼知，百战不殆”、“兵贵胜，不贵久”等，不仅对古代军事产了深远影响，也在现代社会的商战、管理、竞争等领域得到了泛应。"
+  },
+  {
+    "id": 23,
+    "title": "人類簡史",
+    "author": "尤瓦爾",
+    "genre": ["文化与历史"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中从宏观视探讨了类从古代狩猎采集社会到现代科技时代的发展历程。赫拉利分析了人类文明的关键转折点，如认知命、农业命、科学命和业命，揭了这些变如何塑造了人类社会、经济和化。通过对历史进程的深入剖析，书中探讨了类的本质、社会结构以及未来的可能发展，提出了关于类历史和未来的深刻见解。"
+  },
+  {
+    "id": 24,
+    "title": "人性的弱点",
+    "author": "戴尔·卡耐基",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "提供了提升个魅和影响的实建议，通过具体案例帮助读者改善际关系，赢得他人好感，提升说服和领导，涵盖了如何让他人喜欢你、说服他和培养领导等关键主题，旨在帮助个在职业和活中获得成功和幸福。"
+  },
+  {
+    "id": 25,
+    "title": "心智图阅读术",
+    "author": "胡雅茹",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "介绍了种效的阅读和记忆法——智图，通过理论讲解和实际案例展智图在提升阅读速度、理解能和记忆的应用，帮助读者显著提升阅读效率、理解深度和记忆能力，从而更有效地处理信息。"
+  },
+  {
+    "id": 26,
+    "title": "墨菲定律",
+    "author": "宋犀堃",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "心理学大全集",
+    "description": "深探讨了墨菲定律这经典理论及其泛应用。书中阐述了“任何事情只要可能出错，就一定会出错”的核思想，通过量现实案例分析，展示了墨菲定律在活、作、科技、管理等各个领域的表现。作者强调了不确定性和复杂性在现代社会中的影响，并提供了应对这些挑战的实用策略，如预潜在错误、制定应急预案和优化决策流程。通过本书，读者可以学会更有效地管理风险，提处理突发事件的能，增强对复杂环境的适应性"
+  },
+  {
+    "id": 27,
+    "title": "读心术",
+    "author": "张戈洋",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "心理学大全集",
+    "description": "深探讨了读术的奥秘和应，揭示了人们在日常活中如何通过观察、分析和推理来推断他人的内想法。书中提供了丰富的技巧和方法，帮助读者提升的观察和洞察，从更好地理解他，改善际关系。"
+  },
+  {
+    "id": 28,
+    "title": "心理学的诡计",
+    "author": "张跃峰",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "心理学大全集",
+    "description": "详细介绍了理学中的各种诡计和理陷阱，揭示了人们在常活中受到理学原理影响的方方面面。书中包括了认知偏差、情绪控制、社会影响等多个的内容，帮助读者认识到自己的心理局限性，并提供了应对法，帮助读者更加理性地思考和行动。"
+  },
+  {
+    "id": 29,
+    "title": "微表情理学",
+    "author": "杨颖",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "心理学大全集",
+    "description": "探讨了类微表情的形成与应，通过揭示人类面部细微表情和肢体动作的理机制，帮助读者理解并识别他内真实情感。通过理论结合实践的式，提升读者的情商和观察能，并应用到常活与作中，以此提升际沟通效果。"
+  },
+  {
+    "id": 30,
+    "title": "人际交往心理学",
+    "author": "吴桐雨",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "通过详细分析际交往的基本概念、理机制以及有效的沟通与交流技巧，帮助读者理解和改善人际关系。书中探讨了际关系的发展与维护、冲突解决策略、我意识与同理的作，以及社会影响对际交往的影响。此外，书中还涵盖了在家庭、学校、职场和跨化环境中的际交往特点，并提供了量实的案例和练习。"
+  },
+  {
+    "id": 31,
+    "title": "社交心理学",
+    "author": "连山",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "探讨了与之间互动的理机制和为模式，涵盖了我概念、社会认知、态度形成、人际关系和社会影响等主题。通过理解这些原理，读者可以改善际关系，提升社交技能，增强在社会情境中的适应能。"
+  },
+  {
+    "id": 32,
+    "title": "说话心理学",
+    "author": "王佳",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "探讨了语和理之间的密切关系，通过分析人们在各种情境下的语为和沟通模式，揭示了说话背后的理动机和技巧。内容结合了心理学理论和实用技巧，指导读者如何在常交流、职场沟通和际互动中有效地表达，提升说话的影响和说服。书中包含量的实例和练习，帮助读者在实际应中掌握和运这些心理学知识，以改善交流效果和人际关系。"
+  },
+  {
+    "id": 33,
+    "title": "九型人格",
+    "author": "曹君丽",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "心理学大全集",
+    "description": "将西理学中九型格的理论应到企业管理和职场沟通中，并介绍了每种性格所独有的心理特点和为式，帮助读者在作中与不同类型的同事，上司与客相处和沟通，从提高工作效率。"
+  },
+  {
+    "id": 34,
+    "title": "圖解MBTI16型格",
+    "author": "于旭光",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "该书结合理学知识，阐述了每种格类型在思维式、情感处理、社交格和职业倾向等的表现，并提供了量动的案例和图表，使复杂的理论变得易于理解。作者还给出了关于如何与不同类型的相处、如何在作和活中发挥每种性格优势的实建议。"
+  },
+  {
+    "id": 35,
+    "title": "邁爾斯普通理學",
+    "author": "戴維·邁爾斯",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中系统地讲解了理学的主要领域，包括感知、学习、记忆、情感、社会为和理障碍等。通过理论与实际案例相结合，作者帮助读者理解理学的核概念和研究法，同时提供了丰富的应实例，便于读者将理论知识应于实际活中。"
+  },
+  {
+    "id": 36,
+    "title": "格局，决定你的结局",
+    "author": "何权峰",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "深探讨了“格局”这概念在个成长和职业发展中的重要性。通过动的案例和深的分析，揭了如何通过调整思维式、拓展视野和提升格局来实现更的成功和幸福。书中强调了在对挑战和机遇时，保持局观和长远眼光的重要性，并提供了实的策略和方法。"
+  },
+  {
+    "id": 37,
+    "title": "思路，决定你的出路",
+    "author": "何权峰",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "一本关于如何通过改变思维式来实现个人和职业成功的指导书。作者通过系列真实案例和深入分析，展示了如何通过改变思维来突破现有的限制，开创全新的发展路径。书中强调创新思维和积极态的重要性，并提供了具体的方法和策略，帮助读者在对挑战时找到最佳解决案。"
+  },
+  {
+    "id": 38,
+    "title": "所有经历，都是为了成就更好的你",
+    "author": "何权峰",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中通过真实的故事和深刻的见解，帮助读者理解和接受活中的各种经历，论是成功还是挫折。书中的每个章节都讲述了们在对困难和逆境时如何找到力量和希望，通过努力和坚持，最终成就更好的自己。通过这本书，读者能够学会欣赏和珍惜每次经历，理解所有的经历都是为了成就更好的自己，成为生活中的指引和力量。"
+  },
+  {
+    "id": 39,
+    "title": "此时此刻，就是最好的时刻",
+    "author": "何权峰",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "此书旨在引导读者珍惜当下，充分利每个瞬间来实现个幸福与成功。作者靠着深刻的洞察和真实的故事，强调活在当下的重要性，励读者从现在开始行动，不再拖延。书中融合了实的建议和哲理思考，帮助读者摆脱对过去的遗憾和对未来的焦虑，专注于当下的每个机会与挑战。"
+  },
+  {
+    "id": 40,
+    "title": "挫折是来励志，不是来丧志的 ",
+    "author": "戴晨志",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "本书旨在帮助读者重新定义和对挫折，将其视为成长和进步的契机。作者以丰富的案例和个经验，展了如何在逆境中保持积极态，找到前进的动力。书中强调，挫折并不是终点，是旅途中不可避免的部分。通过正确的态度和方法，读者可以将挫折转化为动力，实现我自我提升和成功。"
+  },
+  {
+    "id": 41,
+    "title": "好习惯成就好人生",
+    "author": "戴晨志",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "本书旨在帮助读者通过培养和坚持良好习惯，实现更加充实和成功的。作者通过深的研究和案例，展了如何通过习惯的积累，逐步达成个人和职业标。书中提供了具体的法和步骤，帮助读者建积极的活和作习惯，从提升效率、增强自律、改善健康和人际关系。"
+  },
+  {
+    "id": 42,
+    "title": "每个人的花期不同",
+    "author": "万特特",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中探讨了生命的独特性和个人成的节奏。通过生动的故事和生活感悟，作者传递出种积极乐观的生活哲学：每个都有属于的“花期”，不必与他人比较。无论是成功的时刻，还是自我认知的旅程，都是独一无二的经历。作者鼓励读者要学会接受当下的状态，尊重自己的节奏，耐心等待属于的绽放时刻，同时享受沿途的风景与体验。"
+  },
+  {
+    "id": 43,
+    "title": "这世界很烦，但你要很可爱",
+    "author": "万特特",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "一本充满正能量的散集，作者通过这本书分享了生活中面对压力、焦虑和挑战时的各种情感体验，传递出即使在令烦恼的环境中，我们也可以选择以乐观和温柔的态度去应对。同时也提醒读者要学会照顾的内世界，不要被外界的复杂所击垮。它励我们善意、微笑和可爱的姿态去对生活的不完美，进而找到生活中的美好与快乐。"
+  },
+  {
+    "id": 44,
+    "title": "你并非一无所有",
+    "author": "万特特",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "介书中通过温暖的文字和生活故事，鼓励读者在对挫折与迷茫时，学会看到的潜力与拥有的资源。万特特细腻的笔触引导读者发现生活中的美好，帮助们在繁忙与压力中找到内的平静，意识到并不孤单，也并非一无所有，进获得力量去对生活中的挑战。"
+  },
+  {
+    "id": 45,
+    "title": "被討厭的勇氣",
+    "author": "岸郎一郎",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中以对话的形式介绍了阿尔弗雷德·阿德勒的心理学理论，特别是其关于我启发和勇气的理念。通过系列深刻的对话，书探讨了如何摆脱对他评价的依赖，培养我接受和内心的坚定。"
+  },
+  {
+    "id": 46,
+    "title": "LEAP",
+    "author": "Howard Yu",
+    "genre": ["科技"],
+    "language": "EN",
+    "series": "",
+    "description": "This book explores strategies for success in an era of rapid technological advancement and intense competition. It advocates for taking a proactive approach, focusing on continuous learning, customer interaction, adaptability, and strategic planning"
+  },
+  {
+    "id": 47,
+    "title": "Facebook",
+    "author": "Steven Levy",
+    "genre": ["科技"],
+    "language": "EN",
+    "series": "",
+    "description": "Delving deep into Facebook's establishment and development, this book reveals the company's journey from its inception to becoming a global social media giant. It not only provides insights into Facebook's internal operations and development strategies but also discusses its impact and responsibilities in social, political, and cultural realms"
+  },
+  {
+    "id": 48,
+    "title": "Google IT",
+    "author": "Anna Crowley Redding",
+    "genre": ["科技"],
+    "language": "EN",
+    "series": "",
+    "description": "This book narrates Google's journey of development and its secrets to success, revealing Google's innovative culture, leadership, and technological advantages in the information technology domain. It not only showcases Google's path to success but also offers insights and experiences valuable for those interested in the IT industry and entrepreneurship."
+  },
+  {
+    "id": 49,
+    "title": "一本书读懂ChatGPT",
+    "author": "魏进锋",
+    "genre": ["科技"],
+    "language": "ZH",
+    "series": "",
+    "description": "深入探讨ChatGPT的应场景，能力，原理，优缺点及其对我们作和活的影响，讲解了如何Prompt让ChatGPT输出更有价值内容，ChatGPT与传统只能对话机器的区别，以及以ChatGPT对人工智能行业，人工智能从业者及社会的影响。"
+  },
+  {
+    "id": 50,
+    "title": "高性能MySQL",
+    "author": "杰里米·廷利",
+    "genre": ["科技"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中涵盖了MySQL的级性能调优技巧、数据库设计原则、查询优化、索引设计、存储引擎的选择与配置等内容。作者深分析了如何通过改善硬件配置、调整系统参数、优化SQL查询和配置存储引擎，来显著提升数据库的性能。此外，书中还探讨了MySQL的复制、分片、备份和恢复策略，帮助读者应对并发和数据量的挑战。"
+  },
+  {
+    "id": 51,
+    "title": "ChatGPT高效提問",
+    "author": "李世明，代旋，張濤",
+    "genre": ["科技"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中涵盖了不同场景下的Prompt技巧，包括内容创作、数据分析、问题解决、写作辅助等领域，帮助读者充分理解如何引导AI成符合预期的答案。"
+  },
+  {
+    "id": 52,
+    "title": "Java x ChatGPT基礎必修課",
+    "author": "蔡文龙",
+    "genre": ["科技"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中系统性地介绍了Java编程语的核概念和基础语法，同时通过与ChatGPT的集成案例，展示如何将成式AI融到编程项中。书中涵盖了Java的向对象编程、数据结构、异常处理等基础内容，结合ChatGPT的API调和然语处理应场景，帮助读者将理论与实践相结合"
+  },
+  {
+    "id": 53,
+    "title": "ChatGPT X JavaScript",
+    "author": "陳婉凌",
+    "genre": ["科技"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中涵盖了不同场景下的Prompt技巧，包括内容创作、数据分析、问题解决、写作辅助等领域，帮助读者充分理解如何引导AI成符合预期的答案。"
+  },
+  {
+    "id": 54,
+    "title": "Prompt魔法：提詞程與ChatGPT業應用",
+    "author": "張似衡，盧森煌，吳楠",
+    "genre": ["科技"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中深入探讨了Prompt的优化策略，帮助读者掌握如何通过精准的提词设计来引导ChatGPT生成高质量的输出。"
+  },
+  {
+    "id": 55,
+    "title": "Python程式與ChatGPT實技巧",
+    "author": "榮欽科技",
+    "genre": ["科技"],
+    "language": "ZH",
+    "series": "",
+    "description": "本书通过实战案例展了如何利用ChatGPT生成代码段、优化算法、回答技术问题以及提供编程建议，让编程学习变得更加轻松便捷。"
+  },
+  {
+    "id": 56,
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "genre": ["推理"],
+    "language": "EN",
+    "series": "Robert Langdon",
+    "description": "In this first book of the Robert Langdon series, symbologist Robert Langdon is called to unravel a conspiracy involving the ancient secret society of the Illuminati and the Vatican."
+  },
+  {
+    "id": 57,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": ["推理"],
+    "language": "EN",
+    "series": "Robert Langdon",
+    "description": "Robert Langdon uncovers secrets hidden in Leonardo da Vinci's art, leading to a trail of clues that are part of an ancient secret society's plot."
+  },
+  {
+    "id": 58,
+    "title": "The Lost Symbol",
+    "author": "Dan Brown",
+    "genre": ["推理"],
+    "language": "EN",
+    "series": "Robert Langdon",
+    "description": "Robert Langdon races to uncover the secrets of the Freemasons, set in Washington, D.C., where he must solve puzzles to prevent a national crisis."
+  },
+  {
+    "id": 59,
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "genre": ["推理"],
+    "language": "EN",
+    "series": "Robert Langdon",
+    "description": "Robert Langdon wakes up in a hospital with no memory and must follow clues tied to Dante's Inferno to prevent a global pandemic."
+  },
+  {
+    "id": 60,
+    "title": "Robbert Langdon: Origin",
+    "author": "Dan Brown",
+    "genre": ["推理"],
+    "language": "EN",
+    "series": "Robert Langdon",
+    "description": "Robert Langdon explores the question of humanity's origins and future, guided by modern art and cutting-edge science, while uncovering a shocking discovery."
+  },
+  {
+    "id": 61,
+    "title": "Digital Fortress",
+    "author": "Dan Brown",
+    "genre": ["推理"],
+    "language": "EN",
+    "series": "Robert Langdon",
+    "description": "A techno-thriller centred around the NationalSecurity Agency's code-breaking machine andmysterious codes"
+  },
+  {
+    "id": 62,
+    "title": "Deception Point",
+    "author": "Dan Brown",
+    "genre": ["推理"],
+    "language": "EN",
+    "series": "Robert Langdon",
+    "description": "This novel tells the story of a discovery in the Arctic involving a meteorite and its astonishing truth, involving government conspiracies and scientific discoveries"
+  },
+  {
+    "id": 63,
+    "title": "Harry Potter and the Philosopher’s Stone",
+    "author": "J.K Rowling",
+    "genre": ["奇幻文学"],
+    "language": "EN",
+    "series": "Harry Potter",
+    "description": "In the first book of the Harry Potter series, Harry discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry, where he uncovers the truth about his parents' mysterious death and faces the dark wizard Voldemort."
+  },
+  {
+    "id": 64,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K Rowling",
+    "genre": ["奇幻文学"],
+    "language": "EN",
+    "series": "Harry Potter",
+    "description": "In his second year at Hogwarts, Harry faces new dangers as the Chamber of Secrets is opened, releasing a monster that petrifies students. With the help of his friends, Harry must uncover the identity of the Heir of Slytherin."
+  },
+  {
+    "id": 65,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K Rowling",
+    "genre": ["奇幻文学"],
+    "language": "EN",
+    "series": "Harry Potter",
+    "description": "In his third year, Harry learns about Sirius Black, an escaped prisoner believed to be after him. As he uncovers the truth about his family and Sirius, Harry learns important lessons about friendship and loyalty."
+  },
+  {
+    "id": 66,
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K Rowling",
+    "genre": ["奇幻文学"],
+    "language": "EN",
+    "series": "Harry Potter",
+    "description": "During his fourth year, Harry unexpectedly becomes a contestant in the Triwizard Tournament, facing dangerous tasks and uncovering a plot that leads to the return of Voldemort."
+  },
+  {
+    "id": 67,
+    "title": "Harry Potter and the Order of Phoenix",
+    "author": "J.K Rowling",
+    "genre": ["奇幻文学"],
+    "language": "EN",
+    "series": "Harry Potter",
+    "description": "In his fifth year, Harry forms Dumbledore's Army to teach his friends defensive spells as the Ministry of Magic refuses to believe Voldemort's return. He also faces challenges from Dolores Umbridge and learns about a prophecy concerning himself and Voldemort."
+  },
+  {
+    "id": 68,
+    "title": "Harry Potter and the Half Blood Prince",
+    "author": "J.K Rowling",
+    "genre": ["奇幻文学"],
+    "language": "EN",
+    "series": "Harry Potter",
+    "description": "In his sixth year, Harry discovers a mysterious potions book belonging to the Half-Blood Prince and learns more about Voldemort's past, including the concept of Horcruxes, which hold the secret to defeating the dark wizard."
+  },
+  {
+    "id": 69,
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K Rowling",
+    "genre": ["奇幻文学"],
+    "language": "EN",
+    "series": "Harry Potter",
+    "description": "In the final book of the series, Harry, Ron, and Hermione embark on a quest to find and destroy Voldemort's Horcruxes. The story culminates in an epic battle at Hogwarts where Harry faces Voldemort in a final showdown."
+  },
+  {
+    "id": 70,
+    "title": "Maze Runner The Death Cure",
+    "author": "James Dashner",
+    "genre": ["科幻冒险"],
+    "language": "EN",
+    "series": "Maze Runner",
+    "description": "Thomas and his friends face their ultimate test. After escaping the Maze and surviving the Scorch Trials, they aim to take down WICKED, the organization controlling their lives. As they attempt to rescue their captured friends and uncover the truth behind the Flare virus and WICKED's experiments, Thomas must confront his past and make difficult choices about loyalty and sacrifice. The story is a high-stakes, action-packed conclusion that explores themes of survival and the human spirit."
+  },
+  {
+    "id": 71,
+    "title": "Sherlock",
+    "author": "Conan Doyle",
+    "genre": ["推理"],
+    "language": "EN",
+    "series": "Sherlock Holmes",
+    "description": "The book compiles some of Holmes's most famous cases, showcasing his exceptional deductive skills and keen observation. Key stories include 'The Boscombe Valley Mystery', 'The Adventure of the Red-Headed League','The Adventure of the Speckled Band',and 'The Sign of the Four', each illustrating Holmes's brilliance in solving complex crimes and uncovering hidden truths. Through Dr. John Watson's perspective, readers experience Holmes's remarkable detective work and the enduring appeal of one of literature's greatest sleuths."
+  },
+  {
+    "id": 72,
+    "title": "法医秦明：遗忘者",
+    "author": "秦明",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "法医秦明",
+    "description": "《法医秦明：遗忘者》是法医秦明系列的第一部作品，讲述了法医秦明与他的团队在解剖尸体、分析案件线索中，揭开一宗神秘失踪案的真相。通过法医学和细致入微的观察，秦明逐渐揭开了一个关于遗忘与记忆的复杂谜团。"
+  },
+  {
+    "id": 73,
+    "title": "法医秦明：天谴者",
+    "author": "秦明",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "法医秦明",
+    "description": "《法医秦明：天谴者》是法医秦明系列的第二部，讲述秦明与他的团队在处理一起连环杀人案时，面对越来越复杂的犯罪现场和线索，逐步揭开一个涉及复仇与天谴的神秘案件。故事扣人心弦，悬念丛生。"
+  },
+  {
+    "id": 74,
+    "title": "法医秦明：玩偶",
+    "author": "秦明",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "法医秦明",
+    "description": "《法医秦明：玩偶》是法医秦明系列的第三部作品，秦明面对一宗特殊的谋杀案件，现场留下了恐怖的玩偶。这起案件充满了复杂的心理暗示与巧妙的犯罪手法，秦明与团队展开紧张的侦查，揭示出案件背后的惊人真相。"
+  },
+  {
+    "id": 75,
+    "title": "法医秦明：白卷",
+    "author": "秦明",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "法医秦明",
+    "description": "《法医秦明：白卷》是法医秦明系列的第四部作品，讲述秦明在破解一起没有明显线索的案件时，依靠法医学的细致分析逐步揭开谜团。案件的背后隐藏着复杂的动机与不为人知的过去，秦明在推理过程中面临巨大的压力与挑战。"
+  },
+  {
+    "id": 76,
+    "title": "非自然死亡：我的法医笔记",
+    "author": "刘晓辉",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "非自然死亡",
+    "description": "作者通过系列动详实的笔记描写多年来作为法医作中的真实案例和得体会， 揭示了法医这职业的神秘与严谨。刘晓辉以专业的角度和细腻的笔触，讲述了在对各种非自然死亡案件时，如何通过细致的观察和科学的分析找出真相。书中既有对复杂案件的深剖分析，也有对法医作常的真实记录，让读者在了解法医学知识的同时，也感受到法医作背后的责任与挑战。"
+  },
+  {
+    "id": 77,
+    "title": "痕迹检验师",
+    "author": "红眸",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "",
+    "description": "主是名经验丰富的痕迹检验师，他凭借着敏锐的观察和超的专业技能，通过分析犯罪现场留下的微痕迹，如指纹、鞋印、纤维、发等，逐步拼凑出犯罪的全过程。每个细微的痕迹，都可能成为揭开案件真相的关键线索。说通过详细描写痕迹检验的科学法和技术段，展了这职业在刑事侦查中的重要性和不可替代性。每次的破案过程，不仅是对犯罪为的揭露和打击，更是对正义的捍卫和坚守。主在对犯罪分的狡猾和恶时，始终保持冷静和理智，以科学的态度和不屈的意志，最终将真相于天下。此外，说还描绘了痕迹检验师在作中的挑战和压，以及他们在活中所临的困境和抉择。"
+  },
+  {
+    "id": 78,
+    "title": "宋慈洗冤笔记（一）",
+    "author": "巫童",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "宋慈洗冤笔记",
+    "description": ""
+  },
+  {
+    "id": 79,
+    "title": "宋慈洗冤笔记（二）",
+    "author": "巫童",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "宋慈洗冤笔记",
+    "description": ""
+  },
+  {
+    "id": 80,
+    "title": "宋慈洗冤笔记（三）",
+    "author": "巫童",
+    "genre": ["推理"],
+    "language": "ZH",
+    "series": "宋慈洗冤笔记",
+    "description": ""
+  },
+  {
+    "id": 81,
+    "title": "抱歉，我動了你的腦字",
+    "author": "蘭克·維托斯克",
+    "genre": ["悬疑", "科幻", "惊悚"],
+    "language": "ZH",
+    "series": "",
+    "description": "一位鋼鐵，半路轉學了醫，誤打誤撞進了有“醫學桂冠”之稱的神經外科，由此開啟了一段苦相依的修煉之旅，也證了那些事關死的幽默：患有21三體綜合征且只有條椎動脈的安迪、抱著兔玩偶與死神抗爭的瑞卡、搶在腦瘤殺死她之前下孩的莎拉……他每天要對的是“疼痛”“創傷”和“癱瘓”，要打開造物主最不願讓動的“腦”，要每時每刻在鋒邊緣，也要有接受失敗和死亡的勇氣。"
+  },
+  {
+    "id": 82,
+    "title": "消失的13级台阶",
+    "author": "高野和明",
+    "genre": ["推理", "惊悚"],
+    "language": "ZH",
+    "series": "",
+    "description": "故事讲述了主公在调查座古洋楼中消失的13级台阶时，逐渐揭开了个隐藏在过去的复杂谜团。说通过层层递进的情节和细致的推理过程，展示了主人公如何解开谜团，揭了与消失的台阶相关的历史秘密与际关系的纠葛。书中融合了悬疑、探案和理推理元素，带给读者紧张刺激的阅读体验，同时也探讨了人性与历史的深层次主题。"
+  },
+  {
+    "id": 83,
+    "title": "绝叫",
+    "author": "叶真中显",
+    "genre": ["推理", "惊悚"],
+    "language": "ZH",
+    "series": "",
+    "description": "小说围绕着系列神秘失踪案件展开，主人公在调查过程中发现，案件背后隐藏着场深刻的复仇计划。通过精巧的情节设计和细腻的理描写，作者展现了悬疑推理与人性阴暗之间的复杂交织。书中充满了意外的转折和扣弦的情节，让读者在探寻真相的过程中经历紧张的心理考验。"
+  },
+  {
+    "id": 84,
+    "title": "精神病预后档案",
+    "author": "穆戈",
+    "genre": ["科幻", "悬疑"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中通过个复杂的案件，讲述了位精神病患者的预后档案如何揭系列神秘事件的真相。故事围绕着主公在追查患者病史的过程中，逐步解开隐藏在精神疾病背后的阴谋和秘密。作者结合心理学分析与悬疑情节，提供了对人性、精神健康和社会现象的深刻洞察，带给读者紧张刺激的阅读体验和思考。"
+  },
+  {
+    "id": 85,
+    "title": "我在精神病院种蘑菇",
+    "author": "郁悶悶",
+    "genre": ["悬疑", "惊悚", "科幻"],
+    "language": "ZH",
+    "series": "",
+    "description": "书中描绘了主在被困于精神病院的环境中，如何通过对蘑菇的照料和成，逐渐探索的理创伤与治愈之路。通过与其他患者和医护员的互动，以及对种植的细致描写，作者深刻探讨了精神健康、际关系和我认知的主题。说融合了心理探讨与成长的故事，展现了主在对困境时的坚韧与希望"
+  },
+  {
+    "id": 86,
+    "title": "阿公讲鬼·异更",
+    "author": "蓝橘子",
+    "genre": ["惊悚", "悬疑"],
+    "language": "ZH",
+    "series": "",
+    "description": "是一部充满悬疑与惊悚彩的小说，围绕着一位爷爷阿公讲述的各种灵异故事展开。阿公的故事来源于他亲经历的神秘事件以及民间传说，每个故事都充满了诡异的氛围和意想不到的转折。在《阿公讲·异更》中，读者将跟随阿公的叙述，穿越时间和空间，经历各种奇异的事件。从古的村庄到现代都市，每个故事都展现了不同的恐怖场景和独特的化背景。这些故事不仅仅是为了吓人，更是通过恐怖和神秘的情节，探讨人性和社会现象。"
+  },
+  {
+    "id": 87,
+    "title": "书剑恩仇录（上）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "书剑恩仇录",
+    "description": "金庸的第一部长篇武侠小说，讲述了乾隆年间红花会反清复明的故事"
+  },
+  {
+    "id": 88,
+    "title": "书剑恩仇录（下）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "书剑恩仇录",
+    "description": "金庸的第一部长篇武侠小说，讲述了乾隆年间红花会反清复明的故事"
+  },
+  {
+    "id": 87,
+    "title": "碧血剑（上）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "碧血剑",
+    "description": "以明末为背景，描写袁崇焕之子袁承志的江湖经历和反清斗争"
+  },
+  {
+    "id": 88,
+    "title": "碧血剑（下）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "碧血剑",
+    "description": "以明末为背景，描写袁崇焕之子袁承志的江湖经历和反清斗争"
+  },
+  {
+    "id": 89,
+    "title": "射雕英雄传（一）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "射雕英雄传",
+    "description": "讲述了南宋末年郭靖的成长过程和他与黄蓉的爱情故事"
+  },
+  {
+    "id": 90,
+    "title": "射雕英雄传（二）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "射雕英雄传",
+    "description": "讲述了南宋末年郭靖的成长过程和他与黄蓉的爱情故事"
+  },
+  {
+    "id": 91,
+    "title": "射雕英雄传（三）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "射雕英雄传",
+    "description": "讲述了南宋末年郭靖的成长过程和他与黄蓉的爱情故事"
+  },
+  {
+    "id": 92,
+    "title": "射雕英雄传（四）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "射雕英雄传",
+    "description": "讲述了南宋末年郭靖的成长过程和他与黄蓉的爱情故事"
+  },
+  {
+    "id": 93,
+    "title": "神雕侠侣（一）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "神雕侠侣",
+    "description": "《射雕英雄传》的续集，讲述了杨过和小龙女的爱情故事以及他们的江湖历程"
+  },
+  {
+    "id": 94,
+    "title": "神雕侠侣（二）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "神雕侠侣",
+    "description": "《射雕英雄传》的续集，讲述了杨过和小龙女的爱情故事以及他们的江湖历程"
+  },
+  {
+    "id": 95,
+    "title": "神雕侠侣（三）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "神雕侠侣",
+    "description": "《射雕英雄传》的续集，讲述了杨过和小龙女的爱情故事以及他们的江湖历程"
+  },
+  {
+    "id": 96,
+    "title": "神雕侠侣（四）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "神雕侠侣",
+    "description": "《射雕英雄传》的续集，讲述了杨过和小龙女的爱情故事以及他们的江湖历程"
+  },
+  {
+    "id": 97,
+    "title": "雪山飞狐",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "",
+    "description": "以乾隆年间为背景，围绕胡斐寻找杀父仇人展开，故事发生在一天之内。"
+  },
+  {
+    "id": 98,
+    "title": "飞狐外传（上）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "飞狐外传",
+    "description": "《雪山飞狐》的前传，主要描述胡斐的成长过程及其父亲胡一刀的故事"
+  },
+  {
+    "id": 99,
+    "title": "飞狐外传 （下）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "飞狐外传",
+    "description": "《雪山飞狐》的前传，主要描述胡斐的成长过程及其父亲胡一刀的故事"
+  },
+  {
+    "id": 100,
+    "title": "倚天屠龙记 (一）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "倚天屠龙记",
+    "description": "讲述了元末明初，张无忌周旋于武林之间，最终帮助明教推翻元朝的故事。"
+  },
+  {
+    "id": 101,
+    "title": "倚天屠龙记 (二）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "倚天屠龙记",
+    "description": "讲述了元末明初，张无忌周旋于武林之间，最终帮助明教推翻元朝的故事。"
+  },
+  {
+    "id": 102,
+    "title": "倚天屠龙记 (三）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "倚天屠龙记",
+    "description": "讲述了元末明初，张无忌周旋于武林之间，最终帮助明教推翻元朝的故事。"
+  },
+  {
+    "id": 103,
+    "title": "倚天屠龙记 (四）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "倚天屠龙记",
+    "description": "讲述了元末明初，张无忌周旋于武林之间，最终帮助明教推翻元朝的故事。"
+  },
+  {
+    "id": 104,
+    "title": "连城诀",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "",
+    "description": "以北宋末年为背景，围绕连城诀这一武林秘笈引发的江湖恩怨展开。"
+  },
+  {
+    "id": 105,
+    "title": "天龙八部（一）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "天龙八部",
+    "description": "以北宋为背景，通过段誉、乔峰、虚竹三位主角的经历，展现了一个复杂多变的江湖世界。"
+  },
+  {
+    "id": 106,
+    "title": "天龙八部（二）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "天龙八部",
+    "description": "以北宋为背景，通过段誉、乔峰、虚竹三位主角的经历，展现了一个复杂多变的江湖世界。"
+  },
+  {
+    "id": 107,
+    "title": "天龙八部（三）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "天龙八部",
+    "description": "以北宋为背景，通过段誉、乔峰、虚竹三位主角的经历，展现了一个复杂多变的江湖世界。"
+  },
+  {
+    "id": 108,
+    "title": "天龙八部（四）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "天龙八部",
+    "description": "以北宋为背景，通过段誉、乔峰、虚竹三位主角的经历，展现了一个复杂多变的江湖世界。"
+  },
+  {
+    "id": 109,
+    "title": "天龙八部（五）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "天龙八部",
+    "description": "以北宋为背景，通过段誉、乔峰、虚竹三位主角的经历，展现了一个复杂多变的江湖世界。"
+  },
+  {
+    "id": 110,
+    "title": "侠客行（上）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "侠客行",
+    "description": "讲述了主人公石破天的奇特身世和他在江湖中的种种经历。"
+  },
+  {
+    "id": 111,
+    "title": "侠客行（下）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "侠客行",
+    "description": "讲述了主人公石破天的奇特身世和他在江湖中的种种经历。"
+  },
+  {
+    "id": 112,
+    "title": "笑傲江湖（一）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "笑傲江湖",
+    "description": "以明朝为背景，描述了令狐冲与江湖上各门派之间的恩怨情仇。"
+  },
+  {
+    "id": 113,
+    "title": "笑傲江湖（二）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "笑傲江湖",
+    "description": "以明朝为背景，描述了令狐冲与江湖上各门派之间的恩怨情仇。"
+  },
+  {
+    "id": 114,
+    "title": "笑傲江湖（三）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "笑傲江湖",
+    "description": "以明朝为背景，描述了令狐冲与江湖上各门派之间的恩怨情仇。"
+  },
+  {
+    "id": 115,
+    "title": "笑傲江湖（四）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "笑傲江湖",
+    "description": "以明朝为背景，描述了令狐冲与江湖上各门派之间的恩怨情仇。"
+  },
+  {
+    "id": 116,
+    "title": "鹿鼎记（一）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "鹿鼎记",
+    "description": "以清朝康熙年间为背景，描述了主人公韦小宝从市井少年到官场风云的经历。"
+  },
+  {
+    "id": 117,
+    "title": "鹿鼎记（二）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "鹿鼎记",
+    "description": "以清朝康熙年间为背景，描述了主人公韦小宝从市井少年到官场风云的经历。"
+  },
+  {
+    "id": 118,
+    "title": "鹿鼎记（三）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "鹿鼎记",
+    "description": "以清朝康熙年间为背景，描述了主人公韦小宝从市井少年到官场风云的经历。"
+  },
+  {
+    "id": 119,
+    "title": "鹿鼎记（四）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "鹿鼎记",
+    "description": "以清朝康熙年间为背景，描述了主人公韦小宝从市井少年到官场风云的经历。"
+  },
+  {
+    "id": 120,
+    "title": "鹿鼎记（五）",
+    "author": "金庸",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "鹿鼎记",
+    "description": "以清朝康熙年间为背景，描述了主人公韦小宝从市井少年到官场风云的经历。"
+  },
+  {
+    "id": 121,
+    "title": "封神演义（上）",
+    "author": "許仲琳,葉航船",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "封神演义",
+    "description": "小说以中国商周时期的历史为背景，融了量神话、宗教和间传说。故事主要讲述了商纣王昏庸道，致使天命改易，周武王在姜等仙和将领的辅佐下，推翻商朝，建周朝的过程。在这个过程中，众多神仙、妖魔参与其中，形成了、神、妖三界的争。姜奉元始天尊之命，封神榜上的众神被派遣下界，协助周军对抗商纣王和妲等邪恶势。最终，商朝灭亡，周朝建，封神榜上被选中的物也纷纷被封为神，掌管天地间的各类职务。"
+  },
+  {
+    "id": 122,
+    "title": "封神演义（下）",
+    "author": "許仲琳,葉航船",
+    "genre": ["武侠"],
+    "language": "ZH",
+    "series": "封神演义",
+    "description": "小说以中国商周时期的历史为背景，融了量神话、宗教和间传说。故事主要讲述了商纣王昏庸道，致使天命改易，周武王在姜等仙和将领的辅佐下，推翻商朝，建周朝的过程。在这个过程中，众多神仙、妖魔参与其中，形成了、神、妖三界的争。姜奉元始天尊之命，封神榜上的众神被派遣下界，协助周军对抗商纣王和妲等邪恶势。最终，商朝灭亡，周朝建，封神榜上被选中的物也纷纷被封为神，掌管天地间的各类职务。"
+  },
+  {
+    "id": 123,
+    "title": "长安的荔枝",
+    "author": "马伯庸",
+    "genre": ["历史"],
+    "language": "ZH",
+    "series": "",
+    "description": "通过讲述唐代长安城内发生的一系列故事，再现了那个时代的风貌和生活。这本书结合了历史事实与虚构情节，细致描绘了唐代的政治、文化、社会等各方面的细节，是一本既具文学价值又富有历史知识的作品，适合喜欢历史和文学的读者。"
+  },
+  {
+    "id": 124,
+    "title": "功夫",
+    "author": "九把刀",
+    "genre": ["都市"],
+    "language": "ZH",
+    "series": "",
+    "description": "这本小说描写主人公的成长、情感波折及人际关系，融合了现实生活与一些武侠元素，带有九把刀独有的风格，充满了幽默和感性的描写。"
+  },
+  {
+    "id": 125,
+    "title": "那些年，我们一起追的女孩",
+    "author": "九把刀",
+    "genre": ["爱情"],
+    "language": "ZH",
+    "series": "",
+    "description": "小说讲述了主角与初恋女孩之间的情感经历，展现了年轻人在成长过程中对爱情、友情、梦想和自我探索的思考与感悟。通过细腻的描写和真实的情感，书中呈现了青春时期的种种喜怒哀乐，深刻表达了对青春的怀念和对成长的反思。"
+  },
+  {
+    "id": 126,
+    "title": "月老/红线",
+    "author": "九把刀",
+    "genre": ["爱情"],
+    "language": "ZH",
+    "series": "",
+    "description": "这本书融合了浪漫、青春和奇幻元素，通过讲述主角在月老的安排下与命运交织的爱情故事，探讨了爱情、命运与人生选择等主题。与九把刀其他作品相比，《月老》更侧重于情感的表达和对人与人之间关系的探讨，同时带有些许的幽默与温暖。这本书不仅吸引了喜欢浪漫爱情故事的读者，也通过对命运和选择的反思，给人深刻的情感共鸣。"
+  },
+  {
+    "id": 127,
+    "title": "白夜行",
+    "author": "东野圭吾",
+    "genre": ["推理", "悬疑"],
+    "language": "ZH",
+    "series": "",
+    "description": "这本书不仅仅是一部普通的推理小说，还融合了心理学、社会学和人性探索等元素。故事通过讲述两位主人公——桐原亮司和西岛惠美子——从孩提时代到成年后的命运交织，揭示了复杂的犯罪行为和深刻的人性冲突。《白夜行》是一部结构精巧的长篇小说，情节层层推进，充满悬疑和张力，令人深思。它探讨了罪与罚、爱与恨、命运与选择等主题，同时也对人性的阴暗面进行了深刻的剖析。"
+  },
+  {
+    "id": 128,
+    "title": "解忧杂货店",
+    "author": "东野圭吾",
+    "genre": ["悬疑"],
+    "language": "ZH",
+    "series": "",
+    "description": "小说的故事通过一个神秘的“解忧杂货店”展开，店铺通过回信的方式帮助人们解决烦恼。随着故事的发展，多个看似独立的故事线交织在一起，逐渐揭示出每个角色的内心世界和背后的隐秘联系。它以温暖、感人的笔触，呈现了人性中的善意与希望，给读者带来深刻的情感共鸣和思考。"
+  },
+  {
+    "id": 129,
+    "title": "挪威的森林（上）",
+    "author": "村上春树",
+    "genre": ["现代文学"],
+    "language": "ZH",
+    "series": "挪威的森林",
+    "description": "通过讲述主人公渡边淳一在大学时期的成长经历，探索了爱情、孤独、死亡、心理和人际关系等主题。小说的情节充满了情感的复杂性和哲理的深度，表现了主人公与两位女性——直子和绿子之间的情感纠葛，同时也通过他们的关系展现了人在面对人生困境时的迷茫与自我探索。《挪威的森林》被广泛视为村上春树的代表作之一，具有强烈的个人风格，既有对青春和成长的细腻描写，也有对人性和心理的深刻洞察，是一部触动人心、富有哲理的文学作品。"
+  },
+  {
+    "id": 130,
+    "title": "挪威的森林（下）",
+    "author": "村上春树",
+    "genre": ["现代文学"],
+    "language": "ZH",
+    "series": "挪威的森林",
+    "description": "通过讲述主人公渡边淳一在大学时期的成长经历，探索了爱情、孤独、死亡、心理和人际关系等主题。小说的情节充满了情感的复杂性和哲理的深度，表现了主人公与两位女性——直子和绿子之间的情感纠葛，同时也通过他们的关系展现了人在面对人生困境时的迷茫与自我探索。《挪威的森林》被广泛视为村上春树的代表作之一，具有强烈的个人风格，既有对青春和成长的细腻描写，也有对人性和心理的深刻洞察，是一部触动人心、富有哲理的文学作品。"
+  },
+  {
+    "id": 131,
+    "title": "小王子",
+    "author": "安托万·德·圣-埃克苏佩里",
+    "genre": ["寓言", "成长"],
+    "language": "ZH",
+    "series": "",
+    "description": "通过讲述一个来自外星的小王子与飞行员的相遇，以及小王子在不同星球上的旅行，探索了人与人之间的关系、成长的痛苦、对世界的认知等复杂的情感和人生问题。它是一本具有普遍意义、富有哲理的作品，深受全球读者的喜爱，被翻译成多种语言，成为世界文学经典之一。"
+  },
+  {
+    "id": 132,
+    "title": "荒原狼",
+    "author": "赫尔曼·黑塞",
+    "genre": ["哲理"],
+    "language": "ZH",
+    "series": "",
+    "description": "小说的主人公哈里·霍勒是一个感到与社会格格不入的中年男子，书中通过他的内心挣扎和自我探索，表现了个体在现代社会中的孤独与迷茫。故事通过哈里的视角，探讨了人类内心的二元性（文明与野性、理性与感性）、自我救赎以及精神的觉醒等深刻主题。整部作品以其独特的思想性、哲理性和象征性，成为20世纪文学的重要作品之一。"
+  },
+  {
+    "id": 133,
+    "title": "杀死一只知更鸟",
+    "author": "哈珀·李",
+    "genre": ["成长"],
+    "language": "ZH",
+    "series": "",
+    "description": "这部作品通过一个孩子的视角，讲述了20世纪30年代美国南方一个小镇上的种族歧视、社会不公和人性善恶等深刻主题。小说的主线围绕着主人公斯科特·芬奇和她的父亲，律师阿提克斯·芬奇（Atticus Finch）展开。阿提克斯为一位被冤枉的黑人男子辩护，面对镇上广泛的种族歧视和社会压力。小说通过斯科特的成长和她对父亲行为的理解，深入探讨了道德、正义和种族问题，是对社会不平等和人性复杂性的深刻反思。"
+  },
+  {
+    "id": 134,
+    "title": "傲慢与偏见",
+    "author": "简·奥斯汀",
+    "genre": ["爱情"],
+    "language": "ZH",
+    "series": "",
+    "description": "通过描写伊丽莎白·班纳特与达西先生之间的爱情故事，探讨了个人性格、阶级差异、婚姻观念和社会规范等深刻的社会问题。小说以18世纪末至19世纪初的英国乡村社会为背景，通过对人物性格和社交生活的细腻描写，呈现了当时的社会风貌和人际关系。它不仅是一部浪漫的爱情故事，也具有讽刺性和批判性，揭示了傲慢、偏见以及对社会成见的挑战。"
+  },
+  {
+    "id": 135,
+    "title": "活着",
+    "author": "余华",
+    "genre": ["悲剧"],
+    "language": "ZH",
+    "series": "",
+    "description": "小说讲述了主人公福贵从富裕到贫困的生活变迁，通过他的一生，反映了中国社会在动荡时代中的人性挣扎、命运的无常以及生命的坚韧。"
+  },
+  {
+    "id": 136,
+    "title": "第七天",
+    "author": "余华",
+    "genre": ["现代文学"],
+    "language": "ZH",
+    "series": "",
+    "description": "该书讲述了主人公张洪的灵魂在死后游走在社会边缘的故事，探讨了生死、命运、孤独以及社会底层人群的生活困境。通过张洪的死亡与灵魂的独特视角，余华呈现了当代中国社会的种种不公与苦难，尤其是底层人民的生存状态。小说以其奇特的叙事结构、黑色幽默和深刻的社会批判，探讨了人与社会、人与命运之间的关系，同时揭示了人性的复杂与社会的冷漠。"
+  },
+  {
+    "id": 137,
+    "title": "月亮与六便士",
+    "author": "威廉·萨默塞特·毛姆",
+    "genre": ["哲理"],
+    "language": "ZH",
+    "series": "",
+    "description": "该书讲述了主人公查尔斯·斯特里克兰的故事，他放弃了安稳的家庭生活，追求成为画家的梦想，最终走向自我毁灭的道路。小说通过对斯特里克兰人物的深刻剖析，探讨了个人追求、艺术的真谛、社会规范与个人自由之间的矛盾。毛姆以冷静、理性的笔触，描绘了一个极端个体主义者如何为追求自己的理想而抛弃一切，呈现了人生中关于梦想、牺牲与孤独的复杂主题。"
+  },
+  {
+    "id": 138,
+    "title": "面纱",
+    "author": "威廉·萨默塞特·毛姆",
+    "genre": ["爱情"],
+    "language": "ZH",
+    "series": "",
+    "description": "小说讲述了女主角凯蒂·费希尔与丈夫沃尔特·费希尔以及情人查尔斯·汤普森之间的感情纠葛。凯蒂在婚姻中追求自我实现，最终意识到真爱和责任的重要。《面纱》不仅是关于爱情与婚姻的故事，还涉及人性、社会与自我认知等深刻主题。通过对凯蒂的内心变化和她的成长过程的描写，毛姆探讨了人类情感的复杂性、道德选择以及生活中的责任和牺牲。"
+  },
+  {
+    "id": 139,
+    "title": "百年孤独",
+    "author": "加西亚·马尔克斯",
+    "genre": ["魔幻"],
+    "language": "ZH",
+    "series": "",
+    "description": "小说通过描写布恩迪亚家族七代人的故事，融合了现实与幻想、历史与神话，呈现了拉丁美洲的社会、政治以及人类命运的复杂性。故事发生在虚构的马孔多小镇，书中通过家族成员的命运和他们与外界的关系，探讨了孤独、命运、时间和历史循环等主题。它使用魔幻现实主义手法，描绘了充满奇幻色彩的事件和人物，体现了拉丁美洲独特的文化和历史背景。"
+  },
+  {
+    "id": 140,
+    "title": "东京攻略完全制霸 2023~2024",
+    "author": "林于心，林建志以及墨刻编辑部",
+    "genre": ["旅游"],
+    "language": "ZH",
+    "series": "",
+    "description": "这本书提供关于东京的详细信息、推荐和建议，帮助读者进行有效的规划和决策。"
+  },
+  {
+    "id": 141,
+    "title": "伦敦旅行家",
+    "author": "林庭如",
+    "genre": ["旅游"],
+    "language": "ZH",
+    "series": "",
+    "description": "走遍伦敦最著名的精彩景点，了解伦敦的文化、历史和生活方式。"
+  },
+  {
+    "id": 142,
+    "title": "首尔 2024-25最新版",
+    "author": "雋佳編輯部",
+    "genre": ["旅游"],
+    "language": "ZH",
+    "series": "",
+    "description": "主要为读者提供有关首尔的最新旅游信息，包括景点推荐、住宿、餐饮、交通、购物和当地文化等实用内容。这类书籍通常会涵盖最新的旅行资讯和实用建议，帮助读者更好地规划和享受旅行。"
+  },
+  {
+    "id": 143,
+    "title": "澳门 2024-25最新版",
+    "author": "雋佳編輯部",
+    "genre": ["旅游"],
+    "language": "ZH",
+    "series": "",
+    "description": "主要为读者提供有关澳门的最新旅游信息，包括景点推荐、住宿、餐饮、交通、购物和当地文化等实用内容。这类书籍通常会涵盖最新的旅行资讯和实用建议，帮助读者更好地规划和享受旅行。"
+  },
+  {
+    "id": 144,
+    "title": "希腊雅典·爱情海跳岛之旅",
+    "author": "朱朱",
+    "genre": ["旅游"],
+    "language": "ZH",
+    "series": "",
+    "description": "跟着专业希腊导游，穿越雅典的大城小镇，深度体验爱情海热门群岛，带你探索一生一次的Greek Style，玩出你的希腊魂！"
+  },
+  {
+    "id": 145,
+    "title": "埃及",
+    "author": "朱月华，磨刻编辑部",
+    "genre": ["旅游"],
+    "language": "ZH",
+    "series": "",
+    "description": "主要为读者提供有关埃及的最新旅游信息，包括景点推荐、住宿、餐饮、交通、购物和当地文化等实用内容。这类书籍通常会涵盖最新的旅行资讯和实用建议，帮助读者更好地规划和享受旅行。"
+  },
+  {
+    "id": 146,
+    "title": "90%的病，控糖就会好",
+    "author": "洁西·伊喬斯佩",
+    "genre": ["健康养生"],
+    "language": "ZH",
+    "series": "",
+    "description": "这本书主要探讨糖分摄入与各种慢性疾病之间的关系，强调通过控制糖分摄入来改善健康和预防疾病。它通常会涉及饮食、生活方式的调整、以及如何通过科学的方式管理血糖水平，从而提高健康水平。"
+  },
+  {
+    "id": 147,
+    "title": "逆龄脑",
+    "author": "桑賈伊·古普塔",
+    "genre": ["健康养生", "心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "该书的主要内容通常会集中在如何通过科学的方法改善大脑健康、延缓衰老，帮助读者提高认知功能、记忆力和思维敏捷度。书中可能涉及大脑的塑形、营养、运动、思维训练等方面，强调保持大脑年轻的策略。这类书籍适合关注大脑健康、提升认知能力以及对抗衰老过程的人群。通过改变生活方式、饮食习惯等方式，读者可以更好地维护大脑的健康，延缓衰老。"
+  },
+  {
+    "id": 148,
+    "title": "Jumbo Sudoku 4",
+    "author": "Mind To Mind",
+    "genre": ["益智"],
+    "language": "EN",
+    "series": "",
+    "description": "Dive into the challenging world of Jumbo Sudoku 4, a puzzle book that offers an extensive collection of Sudoku puzzles designed to test and improve your logical thinking and problem-solving skills. Perfect for both beginners and advanced players, this book provides hours of engaging and mind-stimulating entertainment."
+  },
+  {
+    "id": 149,
+    "title": "Super Sudoku:博士级",
+    "author": "张翔颖",
+    "genre": ["益智"],
+    "language": "ZH",
+    "series": "",
+    "description": "Experience the ultimate Sudoku challenge with Super Sudoku: 博士级, a book crafted by puzzle master 张翔颖 (Zhang Xiangying). This collection is tailored for Sudoku enthusiasts seeking to push their limits with intricate and demanding puzzles. Ideal for advanced solvers, this book promises to elevate your Sudoku-solving prowess to a doctoral level."
+  },
+  {
+    "id": 150,
+    "title": "15 Minutes Japanese",
+    "author": "Ankita Awasthi Troger",
+    "genre": ["语言"],
+    "language": "EN",
+    "series": "",
+    "description": "Learn Japanese in just 12 weeks!"
+  },
+  {
+    "id": 151,
+    "title": "大人的静折纸",
+    "author": "吴伊晶",
+    "genre": ["创意"],
+    "language": "ZH",
+    "series": "",
+    "description": "一本把教导你如何靠折纸折出舒压物的书籍。"
+  },
+  {
+    "id": 152,
+    "title": "塔罗超上手",
+    "author": "彌彌告",
+    "genre": ["玄学"],
+    "language": "ZH",
+    "series": "",
+    "description": "不硬背，看圖就會！第次算塔羅就上手~"
+  },
+  {
+    "id": 153,
+    "title": "OH卡讀心術",
+    "author": "曹春燕",
+    "genre": ["心理学"],
+    "language": "ZH",
+    "series": "",
+    "description": "一本介绍如何运OH卡进理探索和我疗愈的实书籍。"
+  },
+  {
+    "id": 154,
+    "title": "我与地坛",
+    "author": "史铁生",
+    "genre": ["散文", "自传"],
+    "language": "ZH",
+    "series": "",
+    "description": "该书通过作者与地坛的深刻对话与思考，表达了对生命、命运、疾病、孤独以及哲学思考的深刻反省。在这本书中，史铁生以自己的亲身经历为基础，反思人生中的困境和挑战，探讨人类存在的意义和价值。书中融合了个人经验、哲理思考和文学创作，文字简洁而有力量，深刻而富有哲理。因此，这本书既适合喜欢散文的读者，也适合对生命与哲学有兴趣的读者。"
+  },
+  {
+    "id": 155,
+    "title": "3-Minute Facts: Turning Points in Time",
+    "author": "Winnie Lim",
+    "genre": ["历史", "漫画"],
+    "language": "EN",
+    "series": "",
+    "description": "Dive into the heart of history with this fast-paced graphic novel. Winnie Lim's '3-Minute Facts: Turning Points in Time' offers a concise yet comprehensive exploration of key events that have had a lasting impact on the world. With its engaging storytelling and vibrant artwork, this book is perfect for anyone looking for a fun and informative introduction to the past."
+  },
+  {
+    "id": 156,
+    "title": "3-Minute Facts: Icons of Culture",
+    "author": "Winnie Lim",
+    "genre": ["历史", "漫画"],
+    "language": "EN",
+    "series": "",
+    "description": " Get up close and personal with the people who have defined our culture. '3-Minute Facts: Icons of Culture' is a comic book biography series that celebrates the lives and achievements of history's most influential figures. From artists and musicians to scientists and inventors, Winnie Lim brings these iconic individuals to life through her vivid illustrations and engaging writing."
+  },
+  {
+    "id": 157,
+    "title": "古人如何过好这一生",
+    "author": "铲史官",
+    "genre": ["哲学", "历史", "漫画"],
+    "language": "ZH",
+    "series": "",
+    "description": "这本书通常通过回顾古代智慧、经典思想和历史人物的生平，探讨古人如何面对生活的困惑、挑战和智慧的选择，旨在为现代读者提供生活的启示与哲学思考。书中的内容可能会涉及古代儒家、道家、佛家等思想体系，通过古人的生活智慧、行为规范和思想理念，帮助读者更好地理解如何面对现代生活中的压力、困境和价值追求。它适合那些对古代文化、哲学思想和生活智慧感兴趣的读者。"
+  },
+  {
+    "id": 158,
+    "title": "看漫画学经典系列：不再害怕，趣读山海经",
+    "author": "刘鹤",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "看漫画学经典",
+    "description": "通过生动有趣的漫画形式，让读者轻松阅读并理解《山海经》这部古老的经典作品。不再害怕艰涩的古文，通过图文并茂的呈现，感受神秘的古代传说和丰富的文化遗产。"
+  },
+  {
+    "id": 159,
+    "title": "看漫画学经典系列：不再死背，趣读孙子兵法",
+    "author": "刘鹤",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "看漫画学经典",
+    "description": "用幽默的漫画方式解读《孙子兵法》，让军事谋略变得通俗易懂。告别死记硬背，通过图文结合的方式轻松掌握兵法智慧，适合各年龄段读者阅读。"
+  },
+  {
+    "id": 160,
+    "title": "看漫画学经典系列：不再陌生，趣读封神演义",
+    "author": "刘鹤",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "看漫画学经典",
+    "description": "通过漫画重温经典《封神演义》，使古代神话故事变得生动有趣。读者可以在轻松愉快的阅读中了解封神演义的精彩内容，不再对这部经典陌生。"
+  },
+  {
+    "id": 161,
+    "title": "看漫画学经典系列：不再发抖，趣读聊斋志异",
+    "author": "刘鹤",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "看漫画学经典",
+    "description": "用诙谐的漫画方式重新解读《聊斋志异》，将诡异的鬼怪故事呈现得趣味盎然。读者在享受漫画的同时，不再对聊斋志异的恐怖氛围感到发抖。"
+  },
+  {
+    "id": 162,
+    "title": "看漫画学经典系列：不再逃跑，趣读三十六计",
+    "author": "刘鹤",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "看漫画学经典",
+    "description": "通过漫画生动呈现《三十六计》的智慧和策略，让人轻松学习古代军事谋略。读者可以在趣味阅读中掌握计谋精髓，不再对复杂的策略知识感到逃跑。"
+  },
+  {
+    "id": 163,
+    "title": "哆啦A梦：爆笑篇",
+    "author": "藤子·F·不二雄",
+    "genre": ["漫画"],
+    "language": "ZH",
+    "series": "哆啦A梦",
+    "description": "享受哆啦A梦带来的无限欢乐，爆笑篇集合了最搞笑的故事，让你笑声不断。适合所有年龄段的读者，是一本能够带来轻松愉悦心情的漫画书。"
+  },
+  {
+    "id": 164,
+    "title": "哆啦A梦：未来·宇宙篇",
+    "author": "藤子·F·不二雄",
+    "genre": ["漫画"],
+    "language": "ZH",
+    "series": "哆啦A梦",
+    "description": "跟随哆啦A梦的脚步，探索未来与宇宙的无限可能。未来·宇宙篇带你进入奇幻的未来世界和神秘的宇宙空间，充满想象力和冒险精神。"
+  },
+  {
+    "id": 165,
+    "title": "哆啦A梦：昔日故事篇",
+    "author": "藤子·F·不二雄",
+    "genre": ["漫画"],
+    "language": "ZH",
+    "series": "哆啦A梦",
+    "description": "回顾哆啦A梦和大雄的昔日故事，重温经典片段。昔日故事篇带你重返那些温馨感人的瞬间，让人怀旧不已。"
+  },
+  {
+    "id": 166,
+    "title": "哆啦A梦：恋爱篇",
+    "author": "藤子·F·不二雄",
+    "genre": ["漫画"],
+    "language": "ZH",
+    "series": "哆啦A梦",
+    "description": "探索哆啦A梦和小伙伴们的恋爱故事，恋爱篇充满了甜蜜和感动。适合喜欢浪漫故事的读者，带来温馨美好的阅读体验。"
+  },
+  {
+    "id": 167,
+    "title": "哆啦A梦：恐怖篇",
+    "author": "藤子·F·不二雄",
+    "genre": ["漫画"],
+    "language": "ZH",
+    "series": "哆啦A梦",
+    "description": "揭开哆啦A梦世界中的恐怖故事，恐怖篇让你体验紧张刺激的情节。虽然是恐怖主题，但依然保持了哆啦A梦特有的幽默和温馨。"
+  },
+  {
+    "id": 168,
+    "title": "哆啦A梦：感动篇",
+    "author": "藤子·F·不二雄",
+    "genre": ["漫画"],
+    "language": "ZH",
+    "series": "哆啦A梦",
+    "description": "感受哆啦A梦带来的感动瞬间，感动篇充满了深情和温暖。每一个故事都传递着真挚的情感，让人感动不已。"
+  },
+  {
+    "id": 169,
+    "title": "哆啦A梦：奇幻篇",
+    "author": "藤子·F·不二雄",
+    "genre": ["漫画"],
+    "language": "ZH",
+    "series": "哆啦A梦",
+    "description": "进入哆啦A梦的奇幻世界，奇幻篇带你经历各种神奇的冒险。丰富的想象力和独特的故事情节让人爱不释手。"
+  },
+  {
+    "id": 170,
+    "title": "哆啦A梦：心灵篇",
+    "author": "藤子·F·不二雄",
+    "genre": ["漫画"],
+    "language": "ZH",
+    "series": "哆啦A梦",
+    "description": "探索哆啦A梦和小伙伴们的心灵成长故事，心灵篇充满了哲理和思考。适合所有读者，是一本能够启发心灵的漫画书。"
+  },
+  {
+    "id": 171,
+    "title": "漫画三国（一）：三兄弟桃园结义",
+    "author": "刘畅",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "漫画三国",
+    "description": "身处于朝廷腐败，人民生活困苦的东汉末年，一名默默无名的草鞋小贩在这样动乱的时代，开创属于自己的历史舞台。颠覆对学习历史的既定印象，生动趣味的图画表现，辅以成语说明，典故由来，关联补充等，重组建构三国时代的知识教育。"
+  },
+  {
+    "id": 172,
+    "title": "漫画三国（二）：诸葛亮三气周瑜",
+    "author": "刘畅",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "漫画三国",
+    "description": "刘备三顾茅庐，与诸葛亮共同打造天下。与诸葛亮同等聪明的东吴周瑜，又为何三番两次找他麻烦，最终，谁能在智慧的较量上得胜。颠覆对学习历史的印象，生动趣味的图画表现，辅以成语说明，典故由来，关联补充等，重组建构三国时代的知识教育。"
+  },
+  {
+    "id": 173,
+    "title": "漫画三国（三）：魏吴蜀三国鼎立",
+    "author": "刘畅",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "漫画三国",
+    "description": "三房人互相斗智斗勇，形成三国制衡的局面，看看各方人马还有什么招数能在这场拉锯战中，获得首场胜利。颠覆对学习历史的既定印象，生动趣味的图画表现，辅以成语说明，典故由来，关联补充等，重组建构三国时代的知识教育。"
+  },
+  {
+    "id": 174,
+    "title": "漫画三国（四）：司马氏统一天下",
+    "author": "刘畅",
+    "genre": ["漫画", "历史"],
+    "language": "ZH",
+    "series": "漫画三国",
+    "description": "历经常年征战，历史演变也到了落幕时。诸葛亮尽力扶持的负兴汉室之路，还有什么令人意想不到的挑战，让我们揭开历史最后的结局。颠覆对学习历史的既定印象，生动趣味的图画表现，辅以成语说明，典故由来，关联补充等，重组建构三国时代的知识教育。"
+  },
+  {
+    "id": 175,
+    "title": "High Performance Habits: How Extraordinary People Become That Way",
+    "author": "Brendon Burchard",
+    "genre": ["自我提升"],
+    "language": "EN",
+    "series": "",
+    "description": "In 'High Performance Habits,' Brendon Burchard reveals the six habits that the world's most successful people have mastered. Drawing on comprehensive research and his own experiences as a high-performance coach, Burchard offers practical, science-backed advice and strategies to help readers develop these habits in their own lives. The book covers topics such as clarity, energy, necessity, productivity, influence, and courage, providing actionable steps to achieve extraordinary results and live a more fulfilling life."
+  },
+  {
+    "id": 176,
+    "title": "ChatGPT JavaScript精选15堂课",
+    "author": "陈婉凌 ",
+    "genre": ["科技"],
+    "language": "ZH",
+    "series": "",
+    "description": "《ChatGPT JavaScript精选15堂课》是一本深入讲解JavaScript编程语言的技术书籍。作者陈婉凌通过精选的15堂课，系统地介绍了JavaScript的核心概念和实用技巧。这本书适合初学者和有一定编程经验的开发者，通过详细的代码示例和实际应用案例，帮助读者掌握JavaScript编程的精髓，并提升编程技能。无论是前端开发还是全栈开发，这本书都是不可多得的学习资源。"
+  },
+  {
+    "id": 177,
+    "title": "The Leadership Skills Handbook",
+    "author": "Jo Owen",
+    "genre": ["自我提升", "职业发展"],
+    "language": "EN",
+    "series": "",
+    "description": "The Leadership Skills Handbook by Jo Owen is a comprehensive guide for anyone looking to develop their leadership abilities. This book covers a wide range of essential skills, from communication and decision-making to emotional intelligence and team management. Owen draws on his extensive experience and research to provide practical advice and strategies that can be applied in various leadership contexts. Whether you're a seasoned leader or aspiring to take on a leadership role, this handbook offers valuable insights to help you lead effectively and achieve your goals."
+  }
+]
