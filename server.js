@@ -3,7 +3,6 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 const fs = require("fs");
 const path = require("path");
-const ngrok = require('ngrok');
 
 const app = express();
 app.use(cors());
