@@ -174,52 +174,6 @@ app.post("/maybeUlike", (req, res) => {
   res.send(uniqueRecommendations.slice(0, 10));
 });
 
-// 刮取他人资料
-app.get("/scrape/:isbn", async (req, res) => {
-  const isbn = req.params.isbn;
-  const bookData = await scrapeBookData(isbn);
-  res.json(bookData);
-});
-
-const scrapeBookData = async (isbn) => {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto(`https://www.isbnsearch.org`);
-
-  await page.type("#searchBox", isbn);
-  await page.click("#searchButton");
-  await page.waitForNavigation();
-
-  const bookData = await page.evaluate(() => {
-    const title = document.querySelector("h2.book-title").innerText;
-    const isbn13 = document
-      .querySelector("div.book-isbn13")
-      .innerText.split(": ")[1];
-    const author = document
-      .querySelector("div.book-author")
-      .innerText.split(": ")[1];
-    const publisher = document
-      .querySelector("div.book-publisher")
-      .innerText.split(": ")[1];
-    const published = document
-      .querySelector("div.book-published")
-      .innerText.split(": ")[1];
-    const image = document.querySelector("div.book-cover img").src;
-
-    return {
-      title,
-      isbn13,
-      author,
-      publisher,
-      published,
-      image,
-    };
-  });
-
-  await browser.close();
-  return bookData;
-};
-
 const PORT = process.env.PORT || 8888;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 module.exports = app;
