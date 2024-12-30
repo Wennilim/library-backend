@@ -182,9 +182,16 @@ app.post("/scrape", async (req, res) => {
   const url = `https://search.books.com.tw/search/query/key/${isbn}/cat/all`;
 
   try {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch({
+      headless: true,
+      args: ["--no-sandbox", "--disable-setuid-sandbox", "--disable-gpu"],
+    });
     const page = await browser.newPage();
-    await page.goto(url);
+    await page.goto(url, { waitUntil: "networkidle2" });
+
+    await page.waitForSelector('h4 a');
+    await page.waitForSelector('div p.author a');
+    await page.waitForSelector('img.b-lazy');
 
     const result = await page.evaluate(() => {
       // 根据页面结构提取所需的信息
@@ -196,7 +203,9 @@ app.post("/scrape", async (req, res) => {
         .querySelector("div p.author a")
         .getAttribute("title")
         .trim();
-      const bookCover = document.querySelector('img.b-lazy').getAttribute('src')
+      const bookCover = document
+        .querySelector("img.b-lazy")
+        .getAttribute("src");
 
       return {
         title: bookTitle,
