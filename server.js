@@ -3,6 +3,9 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 const fs = require("fs");
 const path = require("path");
+const puppeteer = require("puppeteer-extra");
+const StealthPlugin = require("puppeteer-extra-plugin-stealth");
+puppeteer.use(StealthPlugin());
 
 const app = express();
 app.use(cors());
@@ -171,6 +174,44 @@ app.post("/maybeUlike", (req, res) => {
   ).map((title) => recommendations.find((book) => book.title === title));
 
   res.send(uniqueRecommendations.slice(0, 10));
+});
+
+app.post("/scrape", async (req, res) => {
+  const { isbn } = req.body;
+
+  const url = `https://search.books.com.tw/search/query/key/${isbn}/cat/all`;
+
+  try {
+    const browser = await puppeteer.launch({ headless: true });
+    const page = await browser.newPage();
+    await page.goto(url);
+
+    const result = await page.evaluate(() => {
+      // 根据页面结构提取所需的信息
+      const bookTitle = document
+        .querySelector("h4 a")
+        .getAttribute("title")
+        .trim();
+      const bookAuthor = document
+        .querySelector("div p.author a")
+        .getAttribute("title")
+        .trim();
+      const bookCover = document.querySelector('img.b-lazy').getAttribute('src')
+
+      return {
+        title: bookTitle,
+        author: bookAuthor,
+        img: bookCover,
+      };
+    });
+
+    await browser.close();
+
+    res.json(result);
+  } catch (error) {
+    console.error(error);
+    res.status(500).send("Error occurred while scraping the data.");
+  }
 });
 
 const PORT = process.env.PORT || 8888;
