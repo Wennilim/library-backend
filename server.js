@@ -21,6 +21,10 @@ const records = JSON.parse(
   fs.readFileSync(path.join(__dirname, "/data/record.json"), "utf-8")
 );
 
+const announcement = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "/data/announcement.json"), "utf-8")
+);
+
 const userPreferences = {};
 
 // 推荐书籍类型算法
@@ -194,7 +198,6 @@ app.post("/scrape", async (req, res) => {
     await page.waitForSelector('img.b-lazy');
 
     const result = await page.evaluate(() => {
-      // 根据页面结构提取所需的信息
       const bookTitle = document
         .querySelector("h4 a")
         .getAttribute("title")
@@ -221,6 +224,10 @@ app.post("/scrape", async (req, res) => {
     console.error(error);
     res.status(500).send("Error occurred while scraping the data.");
   }
+});
+
+app.get("/announcement", (_, res) => {
+  return res.json(announcement);
 });
 
 const PORT = process.env.PORT || 8888;
